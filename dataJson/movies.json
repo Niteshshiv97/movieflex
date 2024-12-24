@@ -1,0 +1,387 @@
+[{
+  
+  "name": "Avengers: Endgame",
+  "releaseDate": "2019-04-26",
+  "runtime": 182,
+  "genres": "Action",
+  "description": "After Thanos, an intergalactic warlord, disintegrates half of the universe, the Avengers must reunite and assemble again to reinvigorate their trounced allies and restore balance.",
+  "imdbRating": 8.4,
+  "h_posterURL": "https://cdn.mos.cms.futurecdn.net/PBpaPfht3TSS2rSg5ezHE-1200-80.jpg",
+  "v_posterURL": "https://cdn.marvel.com/content/1x/avengersendgame_lob_crd_05.jpg",
+  "top": false,
+  "watchers": 12,
+  "filepath": "movies\\avengers_endgame.mp4"
+},
+{
+
+  "name": "Avengers: Infinity War",
+  "releaseDate": "2018-04-27",
+  "runtime": 149,
+  "genres": "Action,Sci-fi",
+  "description": "The Avengers must stop Thanos, an intergalactic warlord, from getting his hands on all the infinity stones. However, Thanos is prepared to go to any lengths to carry out his insane plan.",
+  "imdbRating": 8.4,
+  "h_posterURL": "https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2018/04/30/Pictures/_de62c026-4c6f-11e8-bd65-8f9614bffbbb.jpg",
+  "v_posterURL": "https://media.comicbook.com/2018/03/avengers-infinity-war-poster-1093756.jpeg",
+  "top": false,
+  "watchers": 13,
+  "filepath": "movies\\avengers_infinity_war.mp4"
+},
+{
+ 
+  "name": "Black Panther",
+  "releaseDate": "2018-02-14",
+  "runtime": 134,
+  "genres": "Action",
+  "description": "After his father's death, T'Challa returns home to Wakanda to inherit his throne. However, a powerful enemy related to his family threatens to attack his nation.",
+  "imdbRating": 7.3,
+  "h_posterURL": "https://www.peoplesworld.org/wp-content/uploads/2018/02/blackpanther920.jpg",
+  "v_posterURL": "https://cdn.marvel.com/content/1x/blackpantherwakandaforever_lob_crd_06.jpg",
+  "top": false,
+  "watchers": 14,
+  "filepath": "movies\\black_panther.mp4"
+},
+{
+ 
+  "name": "Thor: Ragnarok",
+  "releaseDate": "2017-11-07",
+  "runtime": 130,
+  "genres": "Action,Sci-fi",
+  "description": "Deprived of his mighty hammer Mjolnir, Thor must escape the other side of the universe to save his home, Asgard, from Hela, the goddess of death.",
+  "imdbRating": 7.9,
+  "h_posterURL": "https://www.10wallpaper.com/wallpaper/3840x2400/1801/Thor_Ragnarok_2017_4k_Movie_Poster_3840x2400.jpg",
+  "v_posterURL": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_.jpg",
+  "top": false,
+  "watchers": 11,
+  "filepath": "movies\\thor_ragnarok.mp4"
+},
+{
+  
+  "name": "Iron Man 3",
+  "releaseDate": "2013-04-26",
+  "runtime": 130,
+  "genres": "Action,Adventure",
+  "description": "Suffering from PTSD, Tony Stark encounters a formidable foe called the Mandarin. When he watches his world fall apart, he must rely on his own instincts as he embarks on a journey of retribution.",
+  "imdbRating": 7.1,
+  "h_posterURL": "https://wallpapers.com/images/hd/iron-man-pictures-k83lqhe6vnh95b1m.jpg",
+  "v_posterURL": "https://i.pinimg.com/originals/a3/ab/a7/a3aba78fde13533087a12ded5b82733e.jpg",
+  "top": false,
+  "watchers": 13,
+  "filepath": "movies\\Iron_man_3.mp4"
+},
+{
+ 
+  "name": "Captain America: The First Avenger",
+  "releaseDate": "2011-07-29",
+  "runtime": 124,
+  "genres": "Action,War",
+  "description": "During World War II, Steve Rogers decides to volunteer in an experiment that transforms his weak body. He must now battle a secret Nazi organisation headed by Johann Schmidt to defend his nation.",
+  "imdbRating": 6.9,
+  "h_posterURL": "https://wallpapercave.com/wp/wp3775630.jpg",
+  "v_posterURL": "https://image.tmdb.org/t/p/original/s10L9CF6jqX9NP77LgOmVovs44w.jpg",
+  "top": false,
+  "watchers": 12,
+  "filepath": "movies\\captain_america_the_first_avenger_.mp4"
+},
+{
+  "name": "Khilona Bana Khalnayak",
+  "releaseDate": "1995-01-01",
+  "runtime": "222",
+  "genres": "Horror",
+  "description": "A criminal gets killed in a toy factory and posseses a doll. The doll then is bought by a shopkeeper who slowly realizes that the doll is behind the recent deaths.",
+  "imdbRating": 7.3,
+  "h_posterURL": "https://www.indianfilmhistory.com/media/files_i/1605964721255r5d9i44yxs.jpg",
+  "v_posterURL": "https://www.tvguide.com/a/img/catalog/provider/1/2/1-4913181806.jpg",
+  "top": false,
+  "watchers": 10,
+  "filepath": "movies\\tatya.mp4"
+},
+{
+
+  "name": "The Conjuring",
+  "releaseDate": "2013-10-2",
+  "runtime": "212",
+  "genres": "Horror",
+  "description": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.",
+  "imdbRating": 7.5,
+  "h_posterURL": "https://vincentloy.files.wordpress.com/2013/08/the-conjuring-banner.jpg",
+  "v_posterURL": "https://image.tmdb.org/t/p/original/bMJ62JuWMRIYFeLQ8Ffypy0qrwu.jpg",
+  "top": false,
+  "watchers": 8,
+  "filepath": "movies\\OMG_2.mp4"
+},
+{
+  
+  "name": "Insidious",
+  "releaseDate": "2011-04-01",
+  "runtime": "120",
+  "genres": "Horror",
+  "description": "A family looks to prevent evil spirits from trapping their comatose child in a realm called The Further.",
+  "imdbRating": 6.8,
+  "h_posterURL": "https://wallpapers.com/images/hd/insidious-dalton-poster-oxc8bz0d41bhgrd5.jpg",
+  "v_posterURL": "https://dx35vtwkllhj9.cloudfront.net/sonypictures/insidious-the-red-door/images/regions/us/updates/onesheet.jpg",
+  "top": false,
+  "watchers": 6,
+  "filepath": "movies\\OMG_2.mp4"
+},
+{
+  
+  "name": "Lights Out",
+  "releaseDate": "2016-06-22",
+  "runtime": "81",
+  "genres": "Horror",
+  "description": "Rebecca must unlock the terror behind her little brother's experiences that once tested her sanity, bringing her face to face with a supernatural spirit attached to their mother.",
+  "imdbRating": 6.3,
+  "h_posterURL": "https://marruda3.files.wordpress.com/2016/07/lights-out-poster.jpg",
+  "v_posterURL": "https://pm1.aminoapps.com/6209/f17e7b537ccec3400e01c87168c727a7ca0e3ec5_hq.jpg",
+  "top": false,
+  "watchers": 4,
+  "filepath": "movies\\OMG_2.mp4"
+},
+{
+ 
+  "name": "OMG 2",
+  "releaseDate": "2023-08-11",
+  "runtime": 155,
+  "genres": "Comedy,Drama",
+  "description": "",
+  "imdbRating": 7.6,
+  "h_posterURL": "https://www.koimoi.com/wp-content/new-galleries/2023/08/box-office-omg-2-manages-double-digit-collections-on-friday.jpg",
+  "v_posterURL": "https://www.hindustantimes.com/ht-img/img/2023/06/09/original/WhatsApp_Image_2023-06-09_at_09.00.58_1686283203492.jpeg",
+  "top": false,
+  "watchers": 11,
+  "filepath": "movies\\OMG_2.mp4"
+},
+{
+ 
+  "name": "Goodbye",
+  "releaseDate": "2022-10-07",
+  "runtime": 142,
+  "genres": "Drama,Comedy drama",
+  "description": "A family crumbles when the mother suddenly passes away and the children try to rush home to complete her final rites. However, differing opinions cause clashes among the clan.",
+  "imdbRating": 6.8,
+  "h_posterURL": "https://images.hindustantimes.com/img/2022/10/08/1600x900/Goodbye-box-office_1665227881578_1665227881702_1665227881702.png",
+  "v_posterURL": "https://popcornsg.s3.amazonaws.com/gallery/1664539363-goodbye.jpg",
+  "top": false,
+  "watchers": 13,
+  "filepath": "movies\\Goodbye.mp4"
+},
+{
+ 
+  "name": "Patiala House",
+  "releaseDate": "2011-02-11",
+  "runtime": 147,
+  "genres": " Sport,Drama",
+  "description": "Gattu loves to play cricket, even though his father hates the sport. After he gets selected to play for an English team, he must choose between his dreams and his father's wishes.",
+  "imdbRating": 5.6,
+  "h_posterURL": "https://stat5.bollywoodhungama.in/wp-content/uploads/2016/03/60474995-322x215.jpg",
+  "v_posterURL": "https://upload.wikimedia.org/wikipedia/en/3/3d/Patiala_House_1.jpg",
+  "top": false,
+  "watchers": 13,
+  "filepath": "movies\\Patiala_House_.mp4"
+},
+{
+  
+  "name": "Dunki",
+  "releaseDate": "2023-12-21",
+  "runtime": 160,
+  "genres": "Drama,Romance",
+  "description": "A group of friends use a backdoor process to move to another country, then struggle to return home.",
+  "imdbRating": 7.7,
+  "h_posterURL": "https://pragativadi.com/wp-content/uploads/2023/12/Dunki-Trailer-Shah-Rukh-Khan-and-Rajkumar-Hirani-Promise-an-Emotional-End-to-2023-1.jpg",
+  "v_posterURL": "https://static.india.com/wp-content/uploads/2023/10/Untitled-2-2.jpg",
+  "top": false,
+  "watchers": 12,
+  "filepath": "movies\\Dunki.mp4"
+},
+{
+  "name": "Kho Gaye Hum Kahan",
+  "releaseDate": "2023-12-26",
+  "runtime": 134,
+  "genres": "Drama,Romance",
+  "description": "Three best friends juggle life as 20-somethings in Mumbai, where romance, ambition and heartbreak collide with the addictive draw of social media.",
+  "imdbRating": 8.3,
+  "h_posterURL": "https://res.cloudinary.com/dwzmsvp7f/image/fetch/q_75,f_auto,w_1316/https%3A%2F%2Fmedia.insider.in%2Fimage%2Fupload%2Fc_crop%2Cg_custom%2Fv1701802681%2Ftpjnbrlwwhusrwpn4bxb.jpg",
+  "v_posterURL": "https://static.toiimg.com/photo/msid-106276529/106276529.jpg",
+  "top": false,
+  "watchers": 14,
+  "filepath": "movies\\Kho_Gaye_Hum_Kahan.mp4"
+},
+{
+ 
+  "name": "12th Fail",
+  "releaseDate": "2023-10-27",
+  "runtime": 146,
+  "genres": "Drama",
+  "description": "IPS officer Manoj Kumar Sharma fearlessly embraces the idea of restarting his academic journey and reclaiming his destiny at a place where millions of students attempt the world's toughest competitive exam: UPSC.",
+  "imdbRating": 9.2,
+  "h_posterURL": "https://img.theweek.in/content/dam/week/review/movies/images/2023/10/27/12-fail.jpg",
+  "v_posterURL": "https://m.media-amazon.com/images/M/MV5BNDY5YWMzOWEtNTVhZi00NTdmLWIxNGItN2Q5ZmIxNGRkZDYyXkEyXkFqcGdeQXVyMTYzMTU3Njgx._V1_.jpg",
+  "top": false,
+  "watchers": 15,
+  "filepath": "movies\\12th_Fail.mp4"
+},
+{
+  "name": "Hera Pheri",
+  "releaseDate": "2000-03-31",
+  "runtime": 136,
+  "genres": "Comedy",
+  "description": "Two tenants and a landlord, in desperate need of money, chance upon a ransom call via a cross connection. They hatch a plan to claim the ransom for themselves.",
+  "imdbRating": 8.1,
+  "h_posterURL": "https://moviekoop.com/Images/Cover_Photos/Phir-Hera-Pheri-Poster.jpg",
+  "v_posterURL": "https://bollywoodmovieposters.com/wp-content/uploads/2021/02/hera-pheri-movie-poster-images.jpg",
+  "top": false,
+  "watchers": 14,
+  "filepath": "movies\\Goodbye.mp4"
+},
+{
+  "name": "Dream Girl",
+  "releaseDate": "2023-08-22",
+  "runtime": 182,
+  "genres": "Comedy,Drama,Emotional",
+  "description": "Karam secretly turns his female alter ego into a dancer and woos a millionaire's son in hopes of clearing his family debts and impressing his fiancee's father.",
+  "imdbRating": 5.1,
+  "h_posterURL": "https://pragativadi.com/wp-content/uploads/2023/08/366119713_1044976696481911_1253467688489048196_n.jpg",
+  "v_posterURL": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/dream-girl-2-et00340111-1690375184.jpg",
+  "top": false,
+  "watchers": 11,
+  " filepath": "movies\\Moonfall.mp4"
+},
+{
+ 
+  "name": "Happy New Year",
+  "releaseDate": "2014-10-22",
+  "runtime": 158,
+  "genres": "Comedy,Drama,Romance",
+  "description": "In a quest to pull off a heist at a hotel in Dubai, Charlie assembles a team of non-dancers to take part in a dance competition at the hotel. They enlist the help of a bar dancer.",
+  "imdbRating": 8.1,
+  "h_posterURL": "https://sc0.blr1.digitaloceanspaces.com/facebook/685061-d987d587-bc1b-428a-8a47-6dc635121c29.jpg",
+  "v_posterURL": "https://images.jdmagicbox.com/comp/jd_social/news/2018jul25/image-148642-kgmk5rcik3.jpg",
+  "top": false,
+  "watchers": 12,
+  "filepath": "movies\\Goodbye.mp4"
+},
+{
+ 
+  "name": "Ludo",
+  "releaseDate": "2020-11-12",
+  "runtime": 130,
+  "genres": "Comedy,Romance",
+  "description": "Four seemingly different stories intertwine in a game of fate and chance that includes a scandalous sex tape, a suitcase full of money and unsettled scores.",
+  "imdbRating": 7.6,
+  "h_posterURL": "https://sm.mashable.com/mashable_in/seo/2/22555/22555_qqme.jpg",
+  "v_posterURL": "https://miro.medium.com/v2/resize:fit:1066/1*wUKSo9bzeZEjzXhvGIrCOg.jpeg",
+  "top": false,
+  "watchers": 9,
+   "filepath": "movies\\Goodbye.mp4"
+},
+{
+  "name": "Darlings",
+  "releaseDate": "2022-08-5",
+  "runtime": 132,
+  "genres": "Comedy,Emotional",
+  "description": "Hamza and Badru's love marriage takes an ugly turn when he turns into an abusive and alcoholic husband. However, when his behaviour leads to a tragedy, she sets off to seek revenge.",
+  "imdbRating": 6.6,
+  "h_posterURL": "https://sm.mashable.com/t/mashable_in/photo/default/darlings-review-copy_1g6z.1248.jpg",
+  "v_posterURL": "https://assets.gadgets360cdn.com/pricee/assets/product/202207/darlings_poster_1657001152.jpeg",
+  "top": false,
+  "watchers": 10,
+   "filepath": "movies\\Goodbye.mp4"
+},
+{
+  
+  "name": "Housefull",
+  "releaseDate": "2010-04-30",
+  "runtime": 124,
+  "genres": "Comedy",
+  "description": "Aarush is an unlucky man and carries his bad luck wherever he goes. His quest to find love only makes his life more miserable as he ends up in complicated situations.",
+  "imdbRating": 5.5,
+  "h_posterURL": "https://cdn.traileraddict.com/content/eros-international/housefull.jpg",
+  "v_posterURL": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/91CAK3WbdsL._AC_UF1000,1000_QL80_.jpg",
+  "top": false,
+  "watchers": 9,
+   "filepath": "movies\\Goodbye.mp4"
+},
+{
+ 
+  "name": "Interstellar",
+  "releaseDate": "2014-11-07",
+  "runtime": 169,
+  "genres": "Sci-fi,Adventure",
+  "description": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+  "imdbRating": 8.7,
+  "h_posterURL": "https://thevictorvoice.com/wp-content/uploads/2023/10/Interstellar.jpg",
+  "v_posterURL": "https://external-preview.redd.it/interstellar-poster-by-zero-cooper-edition-v0-rrXOYnyepXRyWPlHDE8aYhPikxanaa5w2woDBK8phxA.jpg?auto=webp&s=423ae3a4f423c8a94eb186a19a5e305dff95cc98",
+  "top": false,
+  "watchers": 14,
+   "filepath": "movies\\Interstellar.mp4"
+},
+{
+
+  "name": "Guardians",
+  "releaseDate": "2017-02-24",
+  "runtime": 88,
+  "genres": "Sci-fi,Action",
+  "description": "The Soviet superheroes, who have hidden their identities for a long time, must assemble to fight against a dangerous scientist and his destructive robots during the Cold War.",
+  "imdbRating": 4,
+  "h_posterURL": "https://cdn.europosters.eu/image/750/posters/guardians-of-the-galaxy-group-landscape-i21373.jpg",
+  "v_posterURL": "https://upload.wikimedia.org/wikipedia/en/8/80/Zaschitniki_film_poster.jpg",
+  "top": false,
+  "watchers": 6,
+   "filepath": "movies\\Goodbye.mp4"
+},
+{
+ 
+  "name": "Moonfall",
+  "releaseDate": "2022-02-03",
+  "runtime": 130,
+  "genres": "Sci-fi,Action",
+  "description": "A mysterious force throws the moon out of orbit and hurtles it on a collision course toward earth. However, three astronauts are sent on a mission to discern the issue and prevent the loss of life.",
+  "imdbRating": 5.1,
+  "h_posterURL": "https://media.vanityfair.com/photos/6179e723eb15d2f745826710/master/pass/11.%20MOONFALL_First%20Look.jpg",
+  "v_posterURL": "https://moviesfilmsandflix.files.wordpress.com/2022/04/mv5bmmvkmdhiyjgtnjqxmc00nza4lwfmytatntgxodc3mdqxmjk4xkeyxkfqcgdeqxvymta3mdk2ndg2._v1_.jpg",
+  "top": false,
+  "watchers": 10,
+   "filepath": "movies\\Moonfall.mp4"
+},
+{
+
+  "name": "Jurassic World Dominion",
+  "releaseDate": "2022-06-10",
+  "runtime": 147,
+  "genres": "Sci-fi,Action",
+  "description": "Four years after the destruction of Isla Nublar, dinosaurs now live and hunt alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.",
+  "imdbRating": 5.6,
+  "h_posterURL": "https://static.tumblr.com/0khk77t/nT7nfkm3m/social-share.jpg",
+  "v_posterURL": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/jurassic-world-dominion/images/regions/us/onesheet.jpg",
+  "top": false,
+  "watchers": 11,
+   "filepath": "movies\\Goodbye.mp4"
+},
+{
+ 
+  "name": "Godzilla vs. Kong",
+  "releaseDate": "2021-03-31",
+  "runtime": 113,
+  "genres": "Sci-fi,Action",
+  "description": "King Kong is transported out of his containment zone after Godzilla resurfaces and creates mayhem. Humans need his help to reach Hollow Earth and find a way to subdue the king of the monsters.",
+  "imdbRating": 6.3,
+  "h_posterURL": "https://www.indiewire.com/wp-content/uploads/2021/03/godzilla-vs-kong-gory.png",
+  "v_posterURL": "https://alternativemovieposters.com/wp-content/uploads/2022/11/TomWalker_GodzillaVKong.jpg",
+  "top": false,
+  "watchers": 12,
+   "filepath": "movies\\Godzilla_vs_kong.mp4"
+},
+{
+  
+  "name": "The Flash",
+  "releaseDate": "2023-06-16",
+  "runtime": 144,
+  "genres": "Sci-fi,Action",
+  "description": "Barry Allen goes back in time to change the events of his past. However, as a result, the world is devoid of its superheroes.",
+  "imdbRating": 6.7,
+  "h_posterURL": "https://assets-in.bmscdn.com/discovery-catalog/events/et00047401-bjenmysesv-landscape.jpg",
+  "v_posterURL": "https://upload.wikimedia.org/wikipedia/en/4/4a/The_Flash_season_7.jpg",
+  "top": false,
+  "watchers": 13,
+  "filepath": "movies\\The_flash.mp4"
+}]
